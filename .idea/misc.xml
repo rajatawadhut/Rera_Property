@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Rajat/AndroidProjects/9 Square Property New/app/src/main/res/drawable/buy_nav.xml" value="0.1" />
+        <entry key="..\:/Rajat/AndroidProjects/9 Square Property New/app/src/main/res/drawable/ic_serach_google_font.xml" value="0.2203125" />
+        <entry key="..\:/Rajat/AndroidProjects/9 Square Property New/app/src/main/res/drawable/searchicon_nav.xml" value="0.2203125" />
+        <entry key="..\:/Rajat/AndroidProjects/9 Square Property New/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Rajat/AndroidProjects/9 Square Property New/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/9 Square Property New/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/9 Square Property New/app/src/main/res/layout/activity_view_image.xml" value="0.1" />
+        <entry key="..\:/Rajat/AndroidProjects/9 Square Property New/app/src/main/res/layout/app_bar_main.xml" value="0.33" />
+        <entry key="..\:/Rajat/AndroidProjects/9 Square Property New/app/src/main/res/layout/footer.xml" value="0.33" />
+        <entry key="..\:/Rajat/AndroidProjects/9 Square Property New/app/src/main/res/layout/fragment_pic_zoom.xml" value="0.19010416666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/drawable/border_background.xml" value="0.2203125" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/drawable/button_bg.xml" value="0.2203125" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/drawable/buy.xml" value="0.2203125" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/drawable/call.xml" value="0.2203125" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/drawable/footer_rounded_bg.xml" value="0.17407407407407408" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/drawable/gradient_bg.xml" value="0.2203125" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/drawable/ic_add_pro.xml" value="0.16574074074074074" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/drawable/mail.xml" value="0.2203125" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/drawable/review_bg.xml" value="0.2203125" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/drawable/searchicon.xml" value="0.2203125" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/drawable/spinner_bg.xml" value="0.16574074074074074" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_about.xml" value="0.22335495829471733" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_basic_details.xml" value="0.25" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_buy_our_services.xml" value="0.10934449093444909" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_contact.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_forgot_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_latest.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_lead_search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_owner_builder_developer_list.xml" value="0.22" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_privacy_policy.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_property_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_registration.xml" value="0.25" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_registration_otp.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_show_user_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_splash_screen.xml" value="0.12314814814814815" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/activity_terms_and_condition.xml" value="0.10555555555555556" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/adslayout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/app_bar_latest.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/app_bar_main.xml" value="0.22" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/app_bar_setting.xml" value="0.23651452282157676" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/app_bar_testimonials.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/footer.xml" value="0.75" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/fragment_property_deatial.xml" value="0.1978798586572438" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/item_home_scrren.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/land12.xml" value="0.22" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/lead_search_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/leadsearch.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/property.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/property12.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/property12_reverse.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/review_rating_show.xml" value="0.25" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/search_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/test.xml" value="0.21899441340782122" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/layout/userlistsearch.xml" value="0.67" />
+        <entry key="..\:/Rajat/AndroidProjects/Rera Property/app/src/main/res/menu/activity_main_drawer.xml" value="0.20102564102564102" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

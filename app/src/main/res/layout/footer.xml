@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+
+    <LinearLayout
+        android:layout_marginTop="25dp"
+        android:background="@drawable/footer_rounded_bg"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_margin="4dp"
+            android:background="@drawable/cardviewbg"
+            android:id="@+id/homefooter"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/footerh"
+                android:src="@drawable/home"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:tint="@color/white" />
+            <TextView
+                android:textSize="14dp"
+                android:textColor="@color/white"
+                android:id="@+id/homefooter1"
+                android:text="Home"
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_margin="4dp"
+            android:background="@drawable/cardviewbg"
+            android:id="@+id/latestfooter"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/footerl"
+                android:src="@drawable/latest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:tint="@color/white" />
+            <TextView
+                android:textSize="14dp"
+                android:paddingTop="3dp"
+                android:id="@+id/latestfooter1"
+                android:text="Latest"
+                android:textColor="@color/white"
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <ImageView
+                android:id="@+id/rowner"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center"
+                android:layout_marginTop="-50dp"
+                android:background="@drawable/img_radius_bg"
+                android:backgroundTint="@color/white"
+                android:padding="5dp" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_margin="4dp"
+            android:background="@drawable/cardviewbg"
+            android:id="@+id/shortlistedfooter"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                app:tint="@color/white"
+                android:id="@+id/footershort"
+                android:src="@drawable/heart"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:textSize="14dp"
+                android:textColor="@color/white"
+                android:paddingTop="3dp"
+                android:id="@+id/shortlistedfooter1"
+                android:text="Shortlist"
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_margin="3dp"
+            android:background="@drawable/cardviewbg"
+            android:id="@+id/searchfooter"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/footers"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_horizontal"
+                android:scaleType="fitXY"
+                android:src="@drawable/searchiccccc"
+                app:tint="@color/white" />
+            <TextView
+                android:textSize="14dp"
+                android:textColor="@color/white"
+                android:id="@+id/searchfooter1"
+                android:text="Search"
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal" />
+        </LinearLayout>
+
+
+
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/addfooter"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:layout_width="50dp"
+        android:layout_height="50dp">
+
+    <ImageView
+        app:tint="@color/white"
+        android:src="@drawable/ic_add_pro"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/img_radius_bg"
+        android:backgroundTint="@color/colorPrimary"
+        android:padding="5dp" />
+    </LinearLayout>
+
+
+<!--
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:tint="@color/white"
+        app:backgroundTint="@color/colorPrimary"
+        app:src="@drawable/ic_add_property" />
+-->
+
+
+</RelativeLayout>

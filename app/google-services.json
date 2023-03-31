@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183772553439",
+    "project_id": "reraproperty-c00ce",
+    "storage_bucket": "reraproperty-c00ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183772553439:android:a6ddfae5d4bb9c4d0fc96a",
+        "android_client_info": {
+          "package_name": "com.rera.property"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183772553439-qmet9ga541v6u2siqu153g5849nirc68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdVXImPLq_ttA0i-MyFjKVCkRIaS_t2Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183772553439-qmet9ga541v6u2siqu153g5849nirc68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
